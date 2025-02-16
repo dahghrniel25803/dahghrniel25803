@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm dahghrniel25803
 
-<!--
-**dahghrniel25803/dahghrniel25803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎬 🎽 🚴 🏹 A freak in tech reviews 🎬 🎽 🚴 🏹
 
-Here are some ideas to get you started:
+## About Me
+🛶 🎤 🏑 🛼 Dedicated to mastering cybersecurity 🛶 🎤 🏑 🛼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎣 🎰 🏊 🛶 Building the future with tech reviews 🎣 🎰 🏊 🛶
+
+### Fun Facts
+🎱 🎯 🏓 🏒 A programmer in game development 🎱 🎯 🏓 🏒
+
+---
+🎳 🎨 🎾 🏄 🎾 Thanks for visiting my profile! 🎨 🎪 🚵 🎽 🎱
